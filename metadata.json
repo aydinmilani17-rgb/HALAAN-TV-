@@ -1,0 +1,8 @@
+{
+  "name": "Remix Halaan TV",
+  "description": "پلتفرم ویدیویی آفلاین حلا تی‌وی — تماشای ویدیوهای بلند، کوتاه و ریلز، مدیریت دانلودها و استودیو تولید محتوا",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
